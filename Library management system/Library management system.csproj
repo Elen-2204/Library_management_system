@@ -46,6 +46,7 @@
     <Compile Include="Book.cs" />
     <Compile Include="Author.cs" />
     <Compile Include="Category.cs" />
+    <Compile Include="Library.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
